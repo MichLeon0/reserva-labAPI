@@ -59,3 +59,4 @@ sistema_fcc_api/migrations
 
 #Carpeta muy pesada 
 venv/
+.env
